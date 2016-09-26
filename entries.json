@@ -1,6 +1,8 @@
-{
-  "title": "hello world~",
-  "author": "untitled",
-  "time": [2016, 9, 16, 12, 30],
-  "content": "hello~! just testing the new blog thing~"
-}
+[
+  {
+    "title": "hello world~",
+    "author": "untitled",
+    "time": [2016, 9, 16, 12, 30],
+    "content": "hello~! just testing the new blog thing~"
+  }
+]
